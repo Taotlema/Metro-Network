@@ -2,11 +2,13 @@
 Social network commodity exhange system.
 
 ## About the Project
-This submission is for the HackNC 2024 project. Local Pioneer is a social application designed to connect members of a community and promote involvement in community service and addressing shared issues. In many cases, our cities and towns are too vast and fragmented to effectively advocate for service or tackle problems together. This platform will allow users to develop genuine connections with others in their specific communities of interest, as well as discover opportunities to enhance their skills through volunteer work and participate in events dedicated to improving their communities.
+This is a research project that I made with the High Performing Computing Systems Lab at the University of North Carolina at Charlotte. Which was apart of the Undergraduate Research Intiaitive. Metro-Network is a data visualization project that uses Social Netowrks in order to map out commdity exhanges trends within the United States and particularly, North Carolina. The data used for this research would be collected from the United States Census Beareu's 2017 Commodity Flow Survey Dataset. I would then create python scirpts to read through the data, and map out social networks using Python Libraries, NetworkX, and Matplotlib.
 
 ## Project Usage and Installation
+In the github, you can view the code used to visualize a CSV file provided by the afromentioned Commodity Flow Survey which can be accessed in the link provided below.
+**2017 Commodity Flow Survey:** census.gov/data/datasets/2017/econ/cfs/historical-datasets.html
 
-## Usage
+It is possible to use the code provided to generate network graphs graphs locally, however, github cannot support the large CSV file that the scirpt read through, and so they will need to be downloaded, locally aswell, and have the file addresses in the code adjusted accordingly. 
 
 ## Credits
 
