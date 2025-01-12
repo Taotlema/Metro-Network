@@ -11,8 +11,9 @@ In the github, you can view the code used to visualize a CSV file provided by th
 It is possible to use the code provided to generate network graphs graphs locally, however, github cannot support the large CSV file that the scirpt read through, and so they will need to be downloaded, locally aswell, and have the file addresses in the code adjusted accordingly. 
 
 ## Development Tools and Libraries
-#### Network X
-#### Matpoltlib
+- Pycharm
+- Network X
+- Matpoltlib
 
 ## Contributors
 ### Ayemhenre Isikhuemhen
