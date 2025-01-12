@@ -1,17 +1,16 @@
 # Metro-Network
-Social network commodity exhange system.
+Social network commodity exhange visualization
 
 ## About the Project
-This is a research project that I made with the High Performing Computing Systems Lab at the University of North Carolina at Charlotte. Which was apart of the Undergraduate Research Intiaitive. Metro-Network is a data visualization project that uses Social Netowrks in order to map out commdity exhanges trends within the United States and particularly, North Carolina. The data used for this research would be collected from the United States Census Beareu's 2017 Commodity Flow Survey Dataset. I would then create python scirpts to read through the data, and map out social networks using Python Libraries, NetworkX, and Matplotlib.
+This research project was conducted in collaboration with the High-Performance Computing Systems Lab at the University of North Carolina at Charlotte as part of the Undergraduate Research Initiative. Metro-Network is a data visualization project that leverages social networks to map commodity exchange trends across the United States, with a particular focus on North Carolina. The data for this research was sourced from the United States Census Bureau's 2017 Commodity Flow Survey Dataset. I developed Python scripts to process this data and used libraries such as NetworkX and Matplotlib to create social network visualizations.
 
 ## Project Usage and Installation
-In the github, you can view the code used to visualize a CSV file provided by the afromentioned Commodity Flow Survey which can be accessed in the link provided below.
-**2017 Commodity Flow Survey:** census.gov/data/datasets/2017/econ/cfs/historical-datasets.html
+On the GitHub repository, you can find the code used to visualize a CSV file from the 2017 Commodity Flow Survey, accessible through the following link:
+**2017 Commodity Flow Survey** census.gov/data/datasets/2017/econ/cfs/historical-datasets.html
+While the provided code allows for generating network graphs locally, the large CSV file required for the script cannot be hosted on GitHub. Therefore, you will need to download the CSV file locally and update the file paths in the code accordingly. 
 
-It is possible to use the code provided to generate network graphs graphs locally, however, github cannot support the large CSV file that the scirpt read through, and so they will need to be downloaded, locally aswell, and have the file addresses in the code adjusted accordingly. 
-
-## Development Tools and Libraries
-- Pycharm
+## Development Tools and Python Libraries
+- Pycharm Community Edition 2023.3.3
 - Network X
 - Matpoltlib
 
